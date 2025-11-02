@@ -3,7 +3,7 @@
 # SUPERSTORE DASHBOARD 
 
 # OBJECTIVE
-* The goal of this task was to design a basic interactive sales dashboard to visualize sales performance by product, region, and month, using Power BI / Tableau.
+*  Create a basic interactive dashboard that shows sales performance by product, region, and month
 
 # Tools Used
 * Power BI (for dashboard creation)
